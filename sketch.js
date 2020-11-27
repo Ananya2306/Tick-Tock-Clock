@@ -11,7 +11,7 @@ function draw() {
   textSize(24);
   textStyle("bold");
   text(" ~ Tick - Tock Clock ~  :D", 100,400); 
-  
+  text("Blue and Yellow Colour Denotes Second Hand",50,450);
 
 translate(200,200)
 rotate (-90);
